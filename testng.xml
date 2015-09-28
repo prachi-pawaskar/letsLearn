@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="com.dummy.project" verbose="1" >
+    <test name="runPackage">
+        <packages>
+            <package name="com.dummy.project.letsLearn.signIn" />
+        </packages>
+    </test>
+    <test name="runClass">
+        <classes>
+            <!--<class name="" />-->
+        </classes>
+    </test>
+</suite>
